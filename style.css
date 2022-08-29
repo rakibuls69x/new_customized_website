@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.o_c{
+    color: orange;
+}
+section{
+    display: flex;
+    padding-left: 2%;
+}
+.h_w{
+    width: 50%;
+}
+.h_w img{
+    width: 80%;
+}
+p{
+    margin-bottom: 40px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    background-color: orange;
+    padding: 10px 45px;
+    border-radius: 7px;
+    
+}
+.sec{
+    background-image: url(images/download.jfif);
+    background-repeat:no-repeat;
+    background-position:0%;
+    background-size: 50%;
+
+}
+.sec_2{
+    background-image: url(images/images.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    background-size: 50%;
+
+}
